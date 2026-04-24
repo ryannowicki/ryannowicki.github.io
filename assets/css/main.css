@@ -99,8 +99,8 @@ input, select, textarea {
 	}
 
 	body {
-		/* background-color: #1e252d; */
-		background-image: url("../../Images/websiteBG_GWTC4_Qtrans.png");
+		background-color: #3a035f; /* #1e252d; */
+		/* background-image: url("../../Images/websiteBG_GWTC4_Qtrans.png"); */
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
